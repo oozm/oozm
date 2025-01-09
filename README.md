@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=oozm&show_icons=true)
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=sorryjs&theme=flat&column=6) -->
+![](https://github-profile-trophy.vercel.app/?username=oozm&theme=flat&column=6)
 
 一条鱼一直不开心，它游到老鱼面前说：“我要找到他们称之为海洋的东西。”
 
