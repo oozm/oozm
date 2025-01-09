@@ -1,3 +1,5 @@
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+
 ## 📈 GitHub Stats
 
 ![oozm's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozm&show_icons=true&theme=radical)
