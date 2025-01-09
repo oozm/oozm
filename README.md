@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![antfu Nuxter profile](https://nuxters.nuxt.com/card/antfu/og.png)](https://nuxters.nuxt.com/antfu)
 
 <!--
 **oozm/oozm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
